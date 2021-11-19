@@ -10,8 +10,8 @@ Generate one or more passwords.
 ## Building
 You'll need CMake, and a compatible G++ compiler.
 
-`mkdir build
-cd build
-CMake ..
-make`
+``mkdir build``
+``cd build``
+``CMake ..``
+``make``
 
