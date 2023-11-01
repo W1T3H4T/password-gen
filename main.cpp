@@ -1,5 +1,7 @@
 //  File    :   password-gen.cc
-//  Function:   Generate one or more strong passwords
+//  Function:   Generate one or more passwords
+//  Caveats :   This application does not use a secure random number generator for
+//          :   production of random characters.
 //  Authors :   Hritik Raj, on June 21, 2018
 //          :       https://www.includehelp.com/cpp-programs/generate-random-password.aspx
 //          :   (c) 2021 David C. Means
